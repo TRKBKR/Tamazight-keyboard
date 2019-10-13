@@ -1,6 +1,7 @@
 
 
 clear
+unzip unzip.zip
 echo "					Installing ... "
 sudo cp symbols/* /usr/share/X11/xkb/symbols/
 sudo cp rules/* /usr/share/X11/xkb/rules/
